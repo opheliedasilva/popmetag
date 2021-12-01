@@ -20,6 +20,6 @@ The objective of our study was to develop an original, bioinformatic pipeline ai
 </p>
 
 ## Data and code access
-Codes used to carry out the study and to produce figures are available in this GitHub repository. Data are publicly available [Article is available here](https://figshare.com/).
+Codes used to carry out the study and to produce figures are available in this GitHub repository. Data are publicly available [here](https://figshare.com/).
 
 For any question, please contact: <oph.dasilva@gmail.com>.
