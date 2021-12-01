@@ -16,9 +16,7 @@ Since a decade, high-throughput sequencing has transformed the study of marine p
 
 The objective of our study was to develop an original, bioinformatic pipeline aiming to exploit the currently available metagenomic data for characterizing genetic differentiation of protists in the ecosystems. We focused on three planktonic protistan species a priori abundant in the Mediterranean Sea, which is an ideal location to study population genetics.  By gathering reference sequences and metagenomics data previously published, we investigated the genetic differentiation at the species scale and then if this one could be related to external drivers (*i.e.,* geography, environmental conditions and oceanographic circulation). The contrasted results for the three species leading us to discuss how current metagenomics could support and provide new resources for population genetics. All codes used to carry out the study and to produce figures are available here.
 
-![Overview of the study](https://github.com/opheliedasilva/popmetag/blob/master/additional/global_overview.png)
-*Overview of the study*
-
+<img src="https://github.com/opheliedasilva/popmetag/blob/master/additional/global_overview.png" alt="drawing" width="200"/>
 
 ## Contact
 email: <oph.dasilva@gmail.com>
