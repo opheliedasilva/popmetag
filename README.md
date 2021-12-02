@@ -23,21 +23,22 @@ The objective of our study was to develop an original, bioinformatic pipeline ai
 Codes used to carry out the study and to produce figures are available in this GitHub repository. Data are publicly available [here](https://figshare.com/).
 
 ```
-                                                                + coastline_medit.csv
-                                                                + coord.txt
+                                             + coastline_medit.csv
+                                             + coord.txt
   main directory ---+ data  -----+ raw  -----+ mct_protist.txt
-                              |                 |               + MEDAR-MEDATLAS
-                              |                 |		     + proba_cnx
-                              |                 |               + snps
-                              |                 + out
-                              |
-                              |               +
-                              |               +
-                              |               +
-                             + src  ------+ 
-                                              +
-                                              +
-                                              +
+                    |            |           + MEDAR-MEDATLAS
+                    |            |           + proba_cnx
+                    |            |           + snps
+                    |            + out
+                    |
+                    |            + 0_preprocessing_circu_mct.R
+                    |            + 0_preprocessing_circu_proba_cnx.R
+                    |            + 0_preprocessing_env.R
+                    + src  ------+ 0_preprocessing_fst.R
+                                 + 0_preprocessing_geo.R
+                                 + 1_analysis_environment.R
+                                 + 1_analysis_linear_models.R
+                                 + Rsources.R
 ```
 
 For any question, please contact: <oph.dasilva@gmail.com>.
