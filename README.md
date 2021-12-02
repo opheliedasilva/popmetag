@@ -14,12 +14,30 @@ Since a decade, high-throughput sequencing has transformed the study of marine p
 
 ## Description
 
-The objective of our study was to develop an original, bioinformatic pipeline aiming to exploit the currently available metagenomic data for characterizing genetic differentiation of protists in the ecosystems. We focused on three planktonic protistan species a priori abundant in the Mediterranean Sea, which is an ideal location to study population genetics.  By gathering reference sequences and metagenomics data previously published, we investigated the genetic differentiation at the species scale and then if this one could be related to external drivers (*i.e.,* geography, environmental conditions and oceanographic circulation). The contrasted results for the three species leading us to discuss how current metagenomics could support and provide new resources for population genetics. 
+The objective of our study was to develop an original, bioinformatic pipeline aiming to exploit the currently available metagenomic data for characterizing genetic differentiation of protists in the ecosystems. We focused on three planktonic protistan species *a priori* abundant in the Mediterranean Sea.  By gathering reference sequences and metagenomic data previously published, we investigated the genetic differentiation at the species scale and then if this one could be related to external drivers (*i.e.,* geography, environmental conditions and oceanographic circulation). The contrasted results for the three species leading us to discuss how current metagenomics could support and provide new resources for population genetics. 
 <p align="center">
 <img src="https://github.com/opheliedasilva/popmetag/blob/master/additional/global_overview.png" alt="drawing" width="600"/>
 </p>
 
 ## Data and code access
 Codes used to carry out the study and to produce figures are available in this GitHub repository. Data are publicly available [here](https://figshare.com/).
+
+```
+                                                                + coastline_medit.csv
+                                                                + coord.txt
+  main directory ---+ data  -----+ raw  -----+ mct_protist.txt
+                              |                 |               + MEDAR-MEDATLAS
+                              |                 |		     + proba_cnx
+                              |                 |               + snps
+                              |                 + out
+                              |
+                              |               +
+                              |               +
+                              |               +
+                             + src  ------+ 
+                                              +
+                                              +
+                                              +
+```
 
 For any question, please contact: <oph.dasilva@gmail.com>.
