@@ -1,0 +1,10 @@
+Genetic data are available [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6434681.svg)](https://doi.org/10.5281/zenodo.6434681)
+
+The snps folder should contain the three vcf files:
+- Bathycoccus-prasinos_08-5_snp.vcf
+- Pelagomonas-calceolata_08-5_snp.vcf
+- Phaeocystis-cordata_08-5_snp.vcf
+as well as the `coverage` folder that should contain the three txt files:
+- coverage_Bathycoccus-prasinos_08-5
+- coverage_Pelagomonas-calceolata_08-5
+- coverage_Phaeocystis-cordata_08-5

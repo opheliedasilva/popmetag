@@ -58,7 +58,6 @@ do
 	fi
 
 # Alignment ------------
-	echo "2) ALIGNMENT : "$STATION
 	mkdir $ANALYSIS/alignment/$STATION
 
 	bwa index $REF
