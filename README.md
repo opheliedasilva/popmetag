@@ -20,7 +20,7 @@ The objective of our study was to develop an original, bioinformatic pipeline ai
 </p>
 
 ## Data and code access
-Codes used to carry out the study and to produce figures are available in this GitHub repository. Data are publicly available [here](https://figshare.com/).
+Codes used to carry out the study and to produce figures are available in this GitHub repository. Genetic data are publicly available [here](https://zenodo.org/10.5281/zenodo.6434681).
 
 ```
                                              + coastline_medit.csv
