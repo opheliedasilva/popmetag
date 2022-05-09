@@ -1,8 +1,8 @@
 # Protist population metagenomics
 
-___Are we ready for protist population metagenomics? Challenges to decipher drivers of genetic differentiation in marine planktonic populations___
+___Using metagenomics for genetic differentiation studies of three pico-phytoplankton species in the Mediterranean Sea___
 
-Ophélie Da Silva<sup>1,2</sup>, Sakina-Dorothée Ayata<sup>1,2,3</sup>, Enrico Ser-Giacomi<sup>3,4</sup>, Jade Leconte<sup>5</sup>, Eric Pelletier<sup>5,6</sup>, Cécile Fauvelot<sup>1,7</sup>, Amin Madoui<sup>5</sup>, Lionel Guidi<sup>1,6</sup>, Fabien Lombard<sup>1,6,8</sup>, Lucie Bittner<sup>2,8</sup>
+Ophélie Da Silva<sup>1,2</sup>, Sakina-Dorothée Ayata<sup>1,2,3</sup>, Enrico Ser-Giacomi<sup>3,4</sup>, Jade Leconte<sup>5</sup>, Eric Pelletier<sup>5,6</sup>, Cécile Fauvelot<sup>1,7</sup>, Mohammed-Amin Madoui<sup>5</sup>, Lionel Guidi<sup>1,6</sup>, Fabien Lombard<sup>1,6,8</sup>, Lucie Bittner<sup>2,8</sup>
 
 1 Sorbonne Université, CNRS, Laboratoire d’Océanographie de Villefranche, LOV, F-06230 Villefranche-sur-Mer, France <br/> 2 Institut de Systématique, Evolution, Biodiversité (ISYEB), Muséum national d’Histoire naturelle, CNRS, Sorbonne Université, EPHE, Université des Antilles CP 50, 57 rue Cuvier, 75005 Paris, France <br/> 3 Sorbonne Université, UMR 7159 CNRS-IRD-MNHN, LOCEAN-IPSL, 75005 Paris, France <br/> 4 Department of Earth, Atmospheric and Planetary Sciences, Massachusetts Institute of Technology, 54-1514 MIT, Cambridge, MA 02139, USA <br/> 5 Génomique Métabolique, Genoscope, Institut François Jacob, CEA, CNRS, Univ Evry, Université Paris-Saclay, Evry, France <br/> 6 Research Federation for the study of Global Ocean Systems Ecology and Evolution, FR2022/Tara Oceans GOSEE, 3 rue Michel-Ange, 75016 Paris, France <br/> 7 Institut de Recherche pour le Développement (IRD), UMR ENTROPIE, Nouméa, New Caledonia <br/> 8 Institut Universitaire de France (IUF), Paris, France
 
@@ -20,7 +20,7 @@ The objective of our study was to develop an original, bioinformatic pipeline ai
 </p>
 
 ## Data and code access
-Codes used to carry out the study and to produce figures are available in this GitHub repository. Data are publicly available [here](https://figshare.com/).
+Codes used to carry out the study and to produce figures are available in this GitHub repository. Genetic data are publicly available [here](https://doi.org/10.5281/zenodo.6434681).
 
 ```
                                              + coastline_medit.csv
